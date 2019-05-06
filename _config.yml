@@ -1,35 +1,29 @@
 # Site
-name: "Mediumish"
-title: "Mediumish"
-description: "Jekyll template, Medium styled, free for bloggers."
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
-baseurl: /mediumish-theme-jekyll
-google_analytics: 'UA-46278016-1'
-disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+name: "Fire Side With Pye"
+title: "Fire Side With Pye"
+description: "A collection of articles and thoughts on cooking and baking that contains walk-through recipes, how-to guides, and what-not-to-do's on a range of topics from baking bread to grilling wild game.
+"
+logo: 'assets/images/fireside-pye-icon.png'
+favicon: 'favicon.ico'
+baseurl: ''
+google_analytics: 'UA-XXXXXXXX-1'
+disqus: ''
+mailchimp-list:
 include: ["_pages"]
 permalink: /:title/
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John    
-    avatar: 'assets/images/avatar.png'
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+  brian:
+    name: Brian Pye
+    display_name: Brian
+    gravatar: 
+    email: beepye@gmail.com
+    web: https://www.thebrianpye.com/FireSideWithPye
+    twitter: https://twitter.com/thebrianpye
+    description: "Amateur cook and baker that started this blog and loves all things food. Follow 
+                  him on Instagram <a href='https://www.instagram.com/grits_fer_breakfast/' target='_blank'>@grits_fer_breakfast</a>
+                  or check out his Youtube channel <a href='https://www.youtube.com/channel/UCZhAcZJQSXy6Yff5dDNo6Uw' target='_blank'>Cooking On The Fly With Brian Pye."
 
 # Plugins
 plugins:
