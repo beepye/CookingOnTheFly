@@ -3,7 +3,7 @@ layout: post
 title:  "The Seminal Manifestations of an Amateur Chef and Baker"
 author: beepye
 categories: [baking, cooking, about me, getting started]
-image: FireSideWithPye/assets/images/boulesonboard.jpg
+image: assets/images/boulesonboard.jpg
 caption: "Photograph taken by Brian Pye: &quot;There's no better time of the day than when I've got a fresh sourdough boule in the oven - the house smell delicious!&quot;"
 description: "The world that introduced me to cooking and baking."
 featured: true

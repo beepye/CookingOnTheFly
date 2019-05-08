@@ -3,7 +3,7 @@ layout: post
 title:  "Skippy Breadcrumbs: The Making of a Star"
 author: beepye
 categories: [baking, cooking, about me, getting started]
-image: FireSideWithPye/assets/images/beef-ribs-1.jpg
+image: assets/images/beef-ribs-1.jpg
 caption: "Photograph taken by Brian Pye: Beef ribs braised in a red wine sauce accompanied with roasted carrots and potatoes covered in a demi glace"
 description: "My first adventures in the fine dining restaurant world."
 featured: true
