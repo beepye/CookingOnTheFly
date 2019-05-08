@@ -10,7 +10,7 @@ google_analytics: 'UA-XXXXXXXX-1'
 disqus: ''
 mailchimp-list:
 include: ["_pages"]
-permalink: /:title/
+permalink: FireSideWithPye/:title/
 
 # Authors
 authors:
