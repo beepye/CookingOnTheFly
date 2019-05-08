@@ -54,13 +54,12 @@ jQuery(document).ready(function($){
         target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
 
         if (target.length) {
-          $('html,body').animate({
+          $('html, body').animate({
             scrollTop: target.offset().top
           }, 1000);
         }
       }
     });
-    
     
     // Hide Header on on scroll down
     var didScroll;
@@ -104,7 +103,7 @@ jQuery(document).ready(function($){
         lastScrollTop = st;
     }
         
-    $('.site-content').css('margin-top', $('header').outerHeight() + 'px');  
+    // $('.site-content').css('margin-top', $('header').outerHeight() + 'px');  
     
     // spoilers
      $(document).on('click', '.spoiler', function() {
