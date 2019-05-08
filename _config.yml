@@ -5,12 +5,12 @@ description: "A collection of articles and thoughts on cooking and baking that c
 "
 logo: 'assets/images/fireside-pye-icon.png'
 favicon: 'favicon.ico'
-baseurl: '.'
+baseurl: ''
 google_analytics: 'UA-XXXXXXXX-1'
 disqus: ''
 mailchimp-list:
 include: ["_pages"]
-permalink: FireSideWithPye/:title/
+permalink: /:title/
 
 # Authors
 authors:
@@ -19,7 +19,7 @@ authors:
     display_name: Brian
     gravatar: 
     email: beepye@gmail.com
-    web: https://www.thebrianpye.com/FireSideWithPye
+    web: https://www.thebrianpye.com
     twitter: https://twitter.com/thebrianpye
     description: "Amateur cook and baker who loves all things food. Follow him on Instagram 
                   <a href='https://www.instagram.com/grits_fer_breakfast/' target='_blank'>@grits_fer_breakfast</a>
