@@ -14,15 +14,15 @@ permalink: /:title/
 
 # Authors
 authors:
-  brian:
+  beepye:
     name: Brian Pye
     display_name: Brian
     gravatar: 
     email: beepye@gmail.com
     web: https://www.thebrianpye.com/FireSideWithPye
     twitter: https://twitter.com/thebrianpye
-    description: "Amateur cook and baker that started this blog and loves all things food. Follow 
-                  him on Instagram <a href='https://www.instagram.com/grits_fer_breakfast/' target='_blank'>@grits_fer_breakfast</a>
+    description: "Amateur cook and baker who loves all things food. Follow him on Instagram 
+                  <a href='https://www.instagram.com/grits_fer_breakfast/' target='_blank'>@grits_fer_breakfast</a>
                   for more cooking and baking inspired posts."
 
 # Plugins

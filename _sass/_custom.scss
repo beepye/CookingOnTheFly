@@ -1,3 +1,34 @@
+$orange-lgt: #ddb552;
+$orange: #cc7809;
+
+
+html { font-size: 62.5%; }
+
+body {
+  font-size: 1.6rem;
+  /* allows the use of rems in pixel values i.e. 1.6rem = 16px */
+  line-height: 1.6;
+  font-weight: 400;
+  font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #36454f ; 
+}
+
+header {
+	margin-top: 8rem;
+	margin-bottom: 3rem;
+}
+
+figcaption {
+  font-size: 1.4rem;
+  font-weight: 300;
+  font-style: italic;
+  margin-bottom: 2rem;
+  padding: 0 1rem;
+}
+
+h1 { font-size: 4.8rem; }
+h2 { font-size: 3.2rem; }
+
 .aside-reference {
 	font-size: 1.4rem;
 	margin: 2rem 0;
@@ -14,11 +45,23 @@
 	font-weight: 300;
 }
 
-figcaption {
-  font-size: 1.4rem;
-  font-weight: 300;
-  font-style: italic;
-  margin-bottom: 2rem;
-  padding: 0 1rem;
+.author-block {
+	display: flex;
+	align-items: center;
+	margin-bottom: 2rem;
+  color: rgba(0, 0, 0, .44);
 
+	div:first-of-type { margin-right: 2rem; }
+}
+
+.navbar { padding: 1rem; }
+
+.nav-item { margin-right: 3rem; }
+
+@media (min-width: 768px) {
+
+  header {
+    margin-top: 10rem;
+    margin-bottom: 5rem;
+  }
 }

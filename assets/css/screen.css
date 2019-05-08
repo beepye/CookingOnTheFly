@@ -3,26 +3,9 @@ Template Name: Mediumish
 Copyright: Sal, WowThemes.net, https://www.wowthemes.net 
 License: https://www.wowthemes.net/freebies-license/ 
 */
-html { font-size: 62.5%; }
-
-body {
-  font-size: 1.6rem;
-  /* allows the use of rems in pixel values i.e. 1.6rem = 16px */
-  line-height: 1.6;
-  font-weight: 400;
-  font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #222; 
-}
-
-h1 { font-size: 4.8rem; }
-h2 { font-size: 3.2rem; }
-
-.mainheading {
-  padding: 1rem 0rem;
-}
 
 a {
-  color: #00ab6b;
+  color: #cc7809;
   transition: all 0.2s;
 }
 
@@ -58,9 +41,13 @@ pre {
   min-height: 300px;
 }
 
+.main-content .container { 
+  padding-top: 5rem;
+  border-top: 1px solid rgba(0, 0, 0, .125); 
+}
+
 .site-content {
   min-height: 60vh;
-  padding-top: 1.5rem;
   margin-top: 57px;
   transition: all 0.4s;
 }
@@ -174,48 +161,35 @@ section.recent-posts {
 
 @media (max-width:991px) {
   .featured-box-img-cover {
-      height: auto;
-      width: 100%;
+    height: auto;
+    width: 100%;
   }
 }
 
 .wrapfooter {
-  font-size: 12px;
   display: flex;
   align-items: center;
   margin-bottom: 15px;
+  font-size: 12px;
 }
 
 .author-thumb {
-  width: 40px;
-  height: 40px;
-  margin-right: 13px;
-  border-radius: 100%;
+  width: 100%;
+  height: 100%;
+  max-width: 5rem;
+  margin-right: 2rem;
+  border-radius: 50%;
 }
 
-.post-top-meta {
-  margin-bottom: 2rem;
-}
-
-.post-top-meta .author-thumb {
-  width: 72px;
-  height: 72px;
-}
-
-.post-top-meta.authorpage .author-thumb {
+.author-block.authorpage .author-thumb {
   margin-top: 40px;
 }
 
-.post-top-meta span {
-  font-size: 0.9rem;
-  color: rgba(0, 0, 0, .44);
-  display: inline-block;
-}
-
-.post-top-meta .author-description {
+.author-description {
+  display: block;
   margin-bottom: 5px;
   margin-top: 5px;
-  font-size: 0.95rem;
+  font-size: 1.2rem;
 }
 
 .toc ul {
@@ -269,6 +243,7 @@ span.post-read-more a:hover {
   overflow: hidden;
   border: 1px solid rgba(0, 0, 0, 0.04);
   min-width: 180px;
+  height: 100%;
 }
 
 .mediumnavigation .form-inline {
@@ -297,11 +272,6 @@ span.post-read-more a:hover {
   margin: .5rem 0 0;
 }
 
-.mediumnavigation .nav-item,
-.dropdown-menu {
-  font-size: 0.9rem;
-}
-
 .mediumnavigation .search-icon {
   margin-left: -40px;
   display: inline-block;
@@ -314,9 +284,9 @@ span.post-read-more a:hover {
   margin-right: 5px;
 }
 
-.mainheading h1.sitetitle {
-  /*font-family: Righteous;*/
+h1.sitetitle {
   font-weight: 700;
+  color: #cc7809;
 }
 
 .mainheading h1.posttitle {
@@ -341,13 +311,11 @@ span.post-read-more a:hover {
 }
 
 .article-post {
-  /*font-family: Merriweather;*/
   line-height: 1.8;
-  color: rgba(0, 0, 0, .8);
 }
 
 blockquote {
-  border-left: 4px solid #00ab6b;
+  border-left: 4px solid #cc7809;
   padding: 0 20px;
   font-style: italic;
   color: rgba(0, 0, 0, .5);
@@ -471,13 +439,13 @@ blockquote {
 }
 
 @media (max-width:1024px) {
-  .post-top-meta .col-md-10 {
+  .author-block .col-md-10 {
       text-align: center;
   }
 }
 
 @media (max-width:767px) {
-  .post-top-meta.authorpage {
+  .author-block.authorpage {
       text-align: center;
   }
 }
@@ -535,8 +503,7 @@ ul.tags li a:hover {
 }
 
 .btn.follow {
-  border-color: #02B875;
-  color: #1C9963;
+  border-color: #cc7809;
   padding: 3px 10px;
   text-align: center;
   border-radius: 999em;
@@ -556,7 +523,7 @@ ul.tags li a:hover {
   text-transform: uppercase;
 }
 
-.post-top-meta .btn.follow {
+.author-block .btn.follow {
   margin-left: 5px;
   margin-top: -4px;
 }
@@ -631,7 +598,7 @@ ul.tags li a:hover {
   font-size: 30px;
 }
 
-.post-top-meta.authorpage .author-thumb {
+.author-block.authorpage .author-thumb {
   float: none;
 }
 
@@ -640,7 +607,7 @@ ul.tags li a:hover {
   color: rgba(0, 0, 0, .6);
 }
 
-.post-top-meta.authorpage .btn.follow {
+.author-block.authorpage .btn.follow {
   padding: 7px 20px;
   margin-top: 10px;
   margin-left: 0;
@@ -816,6 +783,7 @@ iframe {
 }
 
 @media (min-width: 768px) {
+
   .flex-md-unordered {
       -webkit-box-ordinal-group: 1;
       -webkit-order: 1;
@@ -828,6 +796,10 @@ iframe {
       -webkit-order: 1;
       -ms-flex-order: 1;
       order: 1;
+  }
+
+  .author-description {
+    font-size: 1.4rem;
   }
 }
 

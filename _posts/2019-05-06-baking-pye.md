@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Seminal Manifestations of an Amateur Chef and Baker"
-author: brian
+author: beepye
 categories: [baking, cooking, about me, getting started]
 image: assets/images/boulesonboard.jpg
 caption: "Photograph taken by Brian Pye: &quot;There's no better time of the day than when I've got a fresh sourdough boule in the oven - the house smell delicious!&quot;"
@@ -17,13 +17,23 @@ Cooking has always been a big part of my life - "huge" might describe it better 
 
 ## Early Years in the Restaurant Industry
 
-I began down the path of cooking (or "culinary arts" to throw some glitter on it) in my mid-to-late teen years when my step-father's 15th birthday present to me was a *Worker's Permit. At the time it seemed appalling to spend my precious summers working in the dregs with the "adults" rather than shredding the streets with my buddies and our skateboards. However in later years I would change my mind about this with the moniker "it gave me character", in which I genuinely feel it did. It also shaped some of my future for both the good and bad.
+I began down the path of cooking, or "_the culinary arts_" to throw some sugar on it (pun intended), in my mid-to-late teen years when my step-father's 15th birthday present to me was a *Worker's Permit. At the time it seemed appalling to spend my precious summers working in the dregs with the "adults" rather than shredding the streets with my buddies and our skateboards. However in later years I would change my mind about this with the moniker "it gave me character", in which I genuinely feel it did. It also shaped some of my future for both the good and bad.
+
+> To note: I'm not classically trained – no schooling – everything I know has been from learning on the job and experimenting on my own.
 
 I started off that summer as a bus boy - is that even politically correct to say now? - at a local Shoney's and eventually worked my way to dishwasher, then line cook, then lead cook. The cast of characters, otherwise known as employees, provided daily entertainment: the dishwasher on LSD; the 3 brothers from the local hood (that were my line cooks) breaking out into fights in the middle of a Friday night rush; the 2 sisters who were swingers; coke in the manager's office (not the soda); the 2 knuckleheads who got jobs as dishwashers who then broke into the building and stole the restaurant safe that was empty a few weeks later. Lot's of good times, these are just a few (I could write a book, literally)!
 
-Whether good for me or bad for me the restaurant world exposed me to and gave me my love for cooking. It's what birthed it, and I'm grateful for the time spent covered in the trenches covered in sweat and grease.
+Whether good for me or bad for me the restaurant world exposed me to and gave me my love for cooking – it's what birthed it – and I'm grateful for the time spent covered in the trenches covered in sweat and grease. In those places is where I first began to develop a basic understanding of flavors and how they meld; of cooking methods and what foods they work best with; of the importance of preparation and knowing the recipe. All of these things that were done repeatedly and became a second nature to me have repaid in life over and over again.
+
+So here's a **big thank you** to the chain restaurants of my past - _cheers to you!_
 
 ## Skippy Breadcrumbs and Chef F.U.
+
+I didn't get any _real_ chef'ing experience until I came across Expressions in Glen Allen, Virgina, where fine dining and I met for the first time.
+
+Well, let's be clear and up front - my first experience was the quick recognition that the current head chef was a raging drunk. It was common for mornings in the kitchen to have a lingering musk of blackberry Schnapp's and cigarettes hanging like fog on the Charles during a New England sunrise. I was even lucky enough to catch him passed out against a cooler unit once where he had attempted to manually light the fryer's pilot and apparently thought a nap was called for after the strenuous task. Good ol' Doug, I wonder if he's still alive - what a mess that guy was.
+
+The new chef that came in, because obviously the other guy had to go, was a younger fella from NY with a vision and the gung-ho to see it through. This gent taught me a lot – both good and not-so-much so – but we had a f*cking blast and became good friends pretty swiftly (shout out to Matt if you're reading this).
 
 ---
 
