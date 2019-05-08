@@ -2,7 +2,7 @@ jQuery(document).ready(function($){
 
     //fix for stupid ie object cover
     if (document.documentMode || /Edge/.test(navigator.userAgent)) {
-      jQuery('.featured-box-img-cover').each(function(){
+      jQuery('.img-cover').each(function(){
           var t = jQuery(this),
               s = 'url(' + t.attr('src') + ')',
               p = t.parent(),

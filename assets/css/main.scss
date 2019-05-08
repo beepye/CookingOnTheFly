@@ -10,6 +10,13 @@
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
+	"core/vars",
+	"core/layout",
+	"core/typography",
+	"components/card",
+	"components/nav",
+	"components/header",
+	"components/footer",
 	"syntax",
   "starsnonscss",
   "custom"

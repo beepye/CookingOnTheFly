@@ -137,22 +137,7 @@ section.recent-posts {
   padding-left: 0;
 }
 
-.listfeaturedtag h2.card-title,
-.listrecent h2.card-title {
-  font-size: 1.3rem;
-  font-weight: 700;
-  line-height: 1.25;
-}
-
-.listfeaturedtag h4.card-text,
-.listrecent h4.card-text {
-  color: rgba(0, 0, 0, .44);
-  font-size: 0.95rem;
-  line-height: 1.6;
-  font-weight: 400;
-}
-
-.featured-box-img-cover {
+.img-cover {
   object-fit: cover;
   width: 100%;
   height: 100%;
@@ -160,7 +145,7 @@ section.recent-posts {
 }
 
 @media (max-width:991px) {
-  .featured-box-img-cover {
+  .img-cover {
     height: auto;
     width: 100%;
   }
@@ -284,7 +269,7 @@ span.post-read-more a:hover {
   margin-right: 5px;
 }
 
-h1.sitetitle {
+.sitetitle {
   font-weight: 700;
   color: #cc7809;
 }
@@ -374,7 +359,7 @@ blockquote {
 }
 
 @media (max-width:999px) {
-  .featured-box-img-cover {
+  .img-cover {
       height: 359px;
   }
 
@@ -421,11 +406,6 @@ blockquote {
 
   .listfeaturedtag .card {
       height: auto;
-  }
-
-  .listfeaturedtag .wrapfooter {
-      position: relative;
-      margin-top: 30px;
   }
 
   .listfeaturedtag .card-block {
