@@ -5,7 +5,7 @@ description: "A collection of articles and thoughts on cooking and baking that c
 "
 logo: 'assets/images/fireside-pye-icon.png'
 favicon: 'favicon.ico'
-baseurl: {{ site.baseurl }}
+baseurl: '/FireSideWithPye'
 google_analytics: 'UA-XXXXXXXX-1'
 disqus: ''
 mailchimp-list:
