@@ -1,11 +1,10 @@
 # Site
-name: "Fire Side With Pye"
-title: "Fire Side With Pye"
-description: "A collection of articles and thoughts on cooking and baking that contains walk-through recipes, how-to guides, and what-not-to-do's on a range of topics from baking bread to grilling wild game.
-"
+name: "Fire Side Pye"
+title: "Fire Side Pye"
+description: "A collection of articles and thoughts on cooking and baking that contains walk-through recipes, how-to guides, and what-not-to-do's on a range of topics from baking bread to grilling wild game."
 logo: 'assets/images/fireside-pye-icon.png'
 favicon: 'favicon.ico'
-baseurl: '/FireSideWithPye'
+baseurl: '/FireSidePye'
 google_analytics: 'UA-XXXXXXXX-1'
 disqus: ''
 mailchimp-list:
