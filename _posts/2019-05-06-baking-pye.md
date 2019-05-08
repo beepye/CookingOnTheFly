@@ -27,14 +27,6 @@ Whether good for me or bad for me the restaurant world exposed me to and gave me
 
 So here's a **big thank you** to the chain restaurants of my past - _cheers to you!_
 
-## Skippy Breadcrumbs and Chef F.U.
-
-I didn't get any _real_ chef'ing experience until I came across Expressions in Glen Allen, Virgina, where fine dining and I met for the first time.
-
-Well, let's be clear and up front - my first experience was the quick recognition that the current head chef was a raging drunk. It was common for mornings in the kitchen to have a lingering musk of blackberry Schnapp's and cigarettes hanging like fog on the Charles during a New England sunrise. I was even lucky enough to catch him passed out against a cooler unit once where he had attempted to manually light the fryer's pilot and apparently thought a nap was called for after the strenuous task. Good ol' Doug, I wonder if he's still alive - what a mess that guy was.
-
-The new chef that came in, because obviously the other guy had to go, was a younger fella from NY with a vision and the gung-ho to see it through. This gent taught me a lot – both good and not-so-much so – but we had a f*cking blast and became good friends pretty swiftly (shout out to Matt if you're reading this).
-
 ---
 
 <aside class="aside-reference">* In Virginia, at least during the 90s, in order to work under the age of 16 years old one had to have a valid Worker's Permit. Granted you weren't eligible for it until you were 15 - it was only good for a year (enter eye-roll emoji here).<aside>
