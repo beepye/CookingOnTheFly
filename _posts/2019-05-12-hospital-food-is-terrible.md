@@ -8,7 +8,7 @@ description: "Hospital food should be at the forefront of health, not the bottom
 featured: true
 ---
 
-In general when someone considers a hospital thoughts surface of a place where health begins; folks are on the mend and are there to get better. That's a part of health, right? So why on Earth are these places of healing ignoring one of the bedrocks, one of the cornerstones, of human health and recovery?
+In general when someone considers a hospital thoughts surface of a place where all aspects of health are at the forefront of thought; folks are on the mend and are there to get better. Recovery is a part of health, right? So why on Earth are these places of healing ignoring one of the bedrocks, one of the cornerstones, of human health and recovery?
 
 > "Let food be thy medicine, and medicine be thy food" is a famous quote from Hippocrates, a legendary Greek physician who is largely considered to be the father of western medicine. As far back as 460 BC it was understood that food was a massively important factor to your health. So why in this era are we still turning a blind eye to that fact in one of our most fundamental institutions?
 
