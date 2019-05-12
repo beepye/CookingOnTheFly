@@ -1,12 +1,11 @@
 ---
 layout: post
-title:  "Skippy Breadcrumbs: The Making of a Star"
+title:  "The Incarnation of Skippy Breadcrumbs"
 author: beepye
 categories: [baking, cooking, about me, getting started]
 image: assets/images/beef-ribs-1.jpg
 caption: "Photograph taken by Brian Pye: Beef ribs braised in a red wine sauce accompanied with roasted carrots and potatoes covered in a demi glace"
 description: "My first adventures in the fine dining restaurant world."
-featured: true
 ---
 
 I didn't get any _real_ chef'ing experience until I was hired at Expressions where fine dining and I met for the first time. Expressions was a quiant and quiet restaurant that was connected to a fine arts center tucked away in the suburbs of Glen Allen, Virgina. It was mostly an older clientel that frequented the restaurant and arts center; many weeks we had groups of seniors come in still wearing clothing and accessories from a by-gone era (I'm talking about you, Red Hat Ladies). There were a few banquet halls for weddings and celebrations and the restaurant did all the catering for them (it was the prime stream of income for the owner). It all seemed a normal place until you got to know the staff, but isn't that the case at all restaurant establishments?

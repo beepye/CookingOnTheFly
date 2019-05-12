@@ -1,12 +1,11 @@
 ---
 layout: post
-title:  "The Seminal Manifestations of an Amateur Chef and Baker"
+title:  "The Seminal Manifestation of an Amateur Chef and Baker"
 author: beepye
 categories: [baking, cooking, about me, getting started]
 image: assets/images/boulesonboard.jpg
 caption: "Photograph taken by Brian Pye: &quot;There's no better time of the day than when I've got a fresh sourdough boule in the oven - the house smell delicious!&quot;"
 description: "The world that introduced me to cooking and baking."
-featured: true
 ---  
 
 The smell of baking bread fills the kitchen and surrounding rooms making for a pleasant aroma in the morning. I've got my first boule of my latest sourdough batch baking and the heat that escapes the oven is still welcome on these cool, crisp, mornings of May in New England. There's no better mix of sensations to enjoy while starting your Saturday or Sunday (or any day for that matter).

@@ -1,7 +1,8 @@
 # Site
 name: "Fire Side Pye"
 title: "Fire Side Pye"
-description: "A collection of articles and thoughts on cooking and baking that contains walk-through recipes, how-to guides, and what-not-to-do's on a range of topics from baking bread to grilling wild game."
+description: "A collection of articles and thoughts on a variety of random topics 
+              including cooking and baking, hunting and fishing, everyday life, and fatherhood"
 logo: 'assets/images/fireside-pye-icon.png'
 favicon: 'favicon.ico'
 baseurl: '/FireSidePye'
@@ -20,9 +21,9 @@ authors:
     email: beepye@gmail.com
     web: https://www.thebrianpye.com
     twitter: https://twitter.com/thebrianpye
-    description: "Amateur cook and baker who loves all things food. Follow him on Instagram 
-                  <a href='https://www.instagram.com/grits_fer_breakfast/' target='_blank'>@grits_fer_breakfast</a>
-                  for more cooking and baking inspired posts."
+    description: "Amateur cook and baker who loves all things food. Father of 3 girls. 
+                  Hunter, angler, and outdoorsman. Follow him on Instagram 
+                  <a href='https://www.instagram.com/grits_fer_breakfast/' target='_blank'>@grits_fer_breakfast</a>."
 
 # Plugins
 plugins:
